@@ -1,0 +1,23 @@
+export const ErrorMessages = {
+  TOKEN_NOT_FOUND: 'Token not found',
+  TOKEN_HAS_EXPIRED: 'Token has expired',
+  INVALID_TOKEN: 'Invalid token',
+  PASSWORD_INVALID: 'Password invalid',
+  EMAIL_ALREADY_REGISTERED: 'Email already registered',
+  USER_NOT_FOUND: 'User not found',
+  CASSETTE_NOT_FOUND: 'Cassette not found',
+  TRANSCEIVER_NOT_FOUND: 'Transceiver not found',
+  LINK_CONFIG_NOT_FOUND: 'Link config spec not found',
+  PLEASE_DOUBLE_CHECK_THE_SERIAL_NUMBER: 'Please double check the serial number',
+  CASSETTE_ALREADY_EXIST: 'Cassette already exist',
+  TRANSCEIVER_ALREADY_EXIST: 'Transceiver already exist',
+  PART_NO_ALREADY_EXISTS: 'The Part No already exists. Please use a unique Part No.',
+  CANNOT_DELETE_YOUR_OWN_ACCOUNT: 'Cannot delete your own account',
+  CABLE_NOT_FOUND: 'Cable not found',
+  ACCESS_DENIED: 'Your account does not have permission to access the admin page',
+  FILE_IS_NOT_PROVIED: 'File is not provided',
+  FILE_IS_NOT_A_PDF: 'File is not a PDF',
+  FAILED_TO_UPLOAD_FILE: 'Failed to upload file',
+  FILE_NOT_FOUND: 'File not found',
+  FAILED_TO_DELETE_FILE: 'Failed to delete file'
+};

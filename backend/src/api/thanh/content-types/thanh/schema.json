@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "thanhs",
+  "info": {
+    "singularName": "thanh",
+    "pluralName": "thanhs",
+    "displayName": "thanh"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}

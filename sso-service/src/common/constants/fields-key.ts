@@ -1,0 +1,18 @@
+export const FieldKeys = {
+  EMAIL: 'email',
+  USERS: 'users',
+  SERIAL_NO: 'serial_no',
+  MPO_CASSETTE: 'mpo_cassette',
+  LINK_CONFIG: 'link_config',
+  FO_TRANSCEIVER: 'fo_transceiver',
+  TEST_REPORT: 'test_report',
+  NIC: 'network_interface_card',
+  SERVER: 'server',
+  SWITCHS: 'switchs',
+  MPO_CABLE: 'mpo_cable',
+  COMMENTS: 'comments',
+  ID: 'id',
+  USER_ROLE: 'user_role',
+  NUMBER_PORTS: 'number_ports',
+  UPDATED_AT: 'updated_at',
+};
